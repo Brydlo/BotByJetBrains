@@ -46,7 +46,7 @@ public class SimpleBot {
     static void test() {
         int num;
         System.out.println("Let's test your programming knowledge.");
-        System.out.println("why you use JestBrains ?");
+        System.out.println(" first question ?");
         System.out.println("1. some text");
         System.out.println("2. some text");
         System.out.println("3. some text");
@@ -68,6 +68,6 @@ public class SimpleBot {
     }
 
     static void end() {
-        System.out.println("Congratulations, have a nice day!"); // Do not change this text
+        System.out.println("Congratulations, have a nice day!");
     }
 }
